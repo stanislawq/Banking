@@ -1,3 +1,4 @@
 jdbc.url=jdbc:postgresql://localhost:5432/users_db
 jdbc.user=postgres
 jdbc.password=
+ribbon toy medal nice have kid bonus myth minute quarter caught silly
